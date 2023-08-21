@@ -1,0 +1,75 @@
+h2 {
+    color: #1A5276;
+    font-size: 50px;
+    font-family:'Roboto Mono', monospace;
+}
+
+h3 {
+    color: #D98880;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.lindos-gatos {
+    width: 600px;
+    border-width: 15px;
+    border-color: black;
+    border-style: double;
+    border-radius: 50%;
+}
+
+.p-dormir {
+    color: #6600FF;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p-cazar {
+    color: #669966;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rayar-objetos {
+    color: #006666;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+}
+
+.raya {
+    color: peru;
+}
+
+.tomar-sol {
+    color: #000033;
+    font-size: 25px;
+}
+
+p {
+    color: #8E44AD;
+}
+
+ul {
+    color: blue;
+}
+
+ol {
+    color: blue;
+}
+
+.lasana-de-gato {
+    width: 450px;
+    border-width: 18px;
+    border-color: #CC6699;
+    border-style: dashed;
+    border-radius: 30%;
+}
+
+img {
+    width: 400px;
+    border-width: 35px;
+    border-color: red;
+    border-style: dotted;
+    border-radius: 40px;
+}
+
